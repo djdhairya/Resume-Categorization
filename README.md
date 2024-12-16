@@ -122,3 +122,5 @@ The app categorizes resumes into the following job domains:
 ## Conclusion
 
 The Resume Categorization App helps automate the process of categorizing resumes into different job domains using machine learning. It provides a user-friendly interface for uploading resumes, categorizing them, and downloading the results.
+
+![Screenshot 2024-12-17 002247](https://github.com/user-attachments/assets/90e52558-981d-40c6-81db-4f52090ac739)
